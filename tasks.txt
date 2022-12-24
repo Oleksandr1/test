@@ -10,3 +10,4 @@ Merging branches
 
 add new feature
 fix new feature
+fix code style
