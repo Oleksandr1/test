@@ -1,0 +1,9 @@
+creating a local repository
+Registering the changes in the files 
+the status of changes 
+Connecting a local repository to a remote one 
+cloning a remote repository 
+Sending data to a remote repository
+Receiving changes from a remote repository 
+creating a new branch
+Merging branches 
