@@ -7,3 +7,5 @@ Sending data to a remote repository
 Receiving changes from a remote repository 
 creating a new branch
 Merging branches 
+
+add new feature
