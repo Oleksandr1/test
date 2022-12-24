@@ -9,3 +9,4 @@ creating a new branch
 Merging branches 
 
 add new feature
+fix new feature
