@@ -1,5 +1,5 @@
 # test
 git learning
 
-Add something new
+Add new something
 git pull ->  git fetch & git merge
